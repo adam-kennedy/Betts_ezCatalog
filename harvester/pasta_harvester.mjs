@@ -8,7 +8,7 @@ import parser from 'xml2js';
 
 const PASTA_CONFIG = {
    "server": "https://pasta.lternet.edu/package/search/eml?", // PASTA server
-   "filter": '&fq=author:"Betts"', // Filter results on a unique keyword of a research group
+   "filter": '&q=id:edi.23+id:edi.101+id:edi.845', // Filter results on a unique keyword of a research group
    "limit": 2000, // Max number of results to retrieve per page
    "fields": [
       "taxonomic",
