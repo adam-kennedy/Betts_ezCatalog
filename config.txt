@@ -1,2 +1,2 @@
-filter = '&fq=keyword:"Betts"'
+filter = '&fq=keyword:"Betts, Matthew G"'
 limit = 20
