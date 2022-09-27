@@ -1,2 +1,2 @@
 filter = '&q=id:knb-lter-and.4781'
-limit = 20
+limit = 5
