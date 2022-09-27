@@ -1,2 +1,2 @@
-filter = '&q=id:edi.462.1'
+filter = '&q=id:knb-lter-and.4781'
 limit = 20
